@@ -1,0 +1,22 @@
+{
+  "name": "stakit-posthtml",
+  "version": "0.0.0",
+  "description": "PostHTML transform for Stakit",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/stakit/stakit-posthtml"
+  },
+  "author": "kodedninja",
+  "license": "ISC",
+  "dependencies": {
+    "posthtml-minifier": "^0.1.0",
+    "posthtmlify": "^0.2.0"
+  },
+  "devDependencies": {
+    "standard": "^14.2.0"
+  }
+}
